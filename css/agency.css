@@ -189,14 +189,14 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 .navbar-custom .navbar-toggle {
-    background-color: #848384;
-    border-color: #848384;
+    background-color: #EAEAEA;
+    border-color: #EAEAEA;
     font-size: 12px
 }
 
 .navbar-custom .navbar-toggle:focus,
 .navbar-custom .navbar-toggle:hover {
-    background-color: #000000
+    background-color: #fff
 }
 
 .navbar-custom .nav li a {
