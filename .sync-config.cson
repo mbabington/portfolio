@@ -1,0 +1,19 @@
+remote:
+  host: "margaretbabington.com"
+  user: "margaret"
+  path: "/var/www/html/marg"
+behaviour:
+  uploadOnSave: false
+  syncDownOnOpen: false
+  forgetConsole: false
+  autoHideConsole: true
+  alwaysSyncAll: false
+option:
+  deleteFiles: false
+  exclude: [
+    ".sync-config.cson"
+    ".git"
+    "node_modules"
+    "tmp"
+    ".DS_Store"
+  ]
