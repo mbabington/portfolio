@@ -77,6 +77,26 @@ a:hover {
     background-color: #222
 }
 
+.bg-beige{
+    background-color: #e5e4e2
+}
+
+.bg-new-gray{
+    background-color: #2A283E
+}
+
+.bg-dark-brown{
+    background-color: #735F5C
+}
+
+.bg-light-brown{
+    background-color: #DBC7B6
+}
+
+.bg-blue{
+    background-color: #14495B
+}
+
 .btn-primary {
     color: #000;
     background-color: #fff;
@@ -89,8 +109,8 @@ a:hover {
 .btn-primary:hover,
 .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #6F6E6F;
-    border-color: #6F6E6F
+    background-color: #AB678B;
+    border-color: #AB678B
 }
 
 .btn-primary.disabled,
@@ -161,12 +181,12 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 .navbar-custom {
-    background-color: fff;
+    background-color: #F4F8F9;
     border-color: transparent
 }
 
 .navbar-custom .navbar-brand {
-    color: #fff;
+    color: #F4F8F9;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, cursive
 }
 
@@ -180,7 +200,7 @@ fieldset[disabled] .btn-xl:hover {
 .navbar-custom .nav li a,
 .navbar-custom .navbar-toggle {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #000;
+    color: #4A4A4A;
     text-transform: uppercase
 }
 
@@ -224,8 +244,8 @@ fieldset[disabled] .btn-xl:hover {
 
 @media (min-width:768px) {
     .navbar-custom {
-        background-color: transparent;
-        padding: 25px 0;
+        background-color: #fff;
+        padding: 10px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -250,7 +270,7 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 header {
-    background-image: url(../img/header-bg.png);
+    background-image: url(../img/birdseye_1.png);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -259,7 +279,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
     text-align: center;
-    color: #fff
+    color: #f5f5f5
 }
 
 header .intro-text {
@@ -286,8 +306,8 @@ header .intro-text .intro-heading {
 
 @media (min-width:768px) {
     header .intro-text {
-        padding-top: 100px;
-        padding-bottom: 120px
+        padding-top: 130px;
+        padding-bottom: 50px
     }
     header .intro-text .intro-lead-in {
         font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -319,7 +339,8 @@ section {
 section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
-    margin-bottom: 15px
+    margin-bottom: 15px;
+    color: #4A4A4A
 }
 
 section h3.section-subheading {
@@ -337,7 +358,8 @@ section h3.section-subheading {
 
 .service-heading {
     margin: 15px 0;
-    text-transform: none
+    text-transform: none;
+    color:#4A4A4A
 }
 
 #portfolio .portfolio-item {
@@ -615,7 +637,8 @@ footer ul.quicklinks {
 .team-member h4 {
     margin-top: 25px;
     margin-bottom: 0;
-    text-transform: none
+    text-transform: none;
+    color: #fff
 }
 
 .team-member p {
@@ -627,7 +650,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #14495B;
 /*    background-image: url(../img/map-image.png);*/
     background-position: center;
     background-repeat: no-repeat
@@ -790,7 +813,8 @@ ul.social-buttons li a:hover {
     background-color: transparent;
     top: 25px;
     right: 25px;
-    cursor: pointer
+    cursor: pointer;
+
 }
 
 .portfolio-modal .close-modal:hover {
@@ -839,4 +863,52 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0
+}
+
+.fa-users {
+  color: #14495B;
+}
+
+.fa-video-camera {
+  color: #14495B;
+}
+
+.fa-clock-o {
+  color: #14495B;
+}
+
+.fa-university{
+  color: #14495B;
+}
+
+.fa-pencil{
+  color: #14495B;
+}
+
+.fa-sticky-note{
+  color: #14495B;
+}
+
+.fa-users:hover {
+    color: #d2cfca;
+}
+
+.fa-video-camera:hover {
+  color: #d2cfca;
+}
+
+.fa-clock-o:hover {
+  color: #d2cfca;
+}
+
+.fa-university:hover{
+  color: #d2cfca;
+}
+
+.fa-pencil:hover{
+  color: #d2cfca;
+}
+
+.fa-sticky-note:hover{
+  color: #d2cfca;
 }

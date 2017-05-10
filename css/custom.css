@@ -2,3 +2,22 @@
     background-image: none
 }
 
+.modal-content {
+  background-color: rgba(255, 255, 255,)!important;
+}
+
+div.c-wrapper{
+    width: 80%; /* for example */
+    margin: auto;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img{
+width: 70%; /* use this, or not */
+margin: auto;
+}
+
+header .intro-text {
+    padding-top: 400px;
+    padding-bottom: 200px
+}
