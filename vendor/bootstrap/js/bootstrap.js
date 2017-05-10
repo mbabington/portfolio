@@ -130,7 +130,7 @@ if ("undefined" == typeof jQuery) throw new Error("Bootstrap's JavaScript requir
   c.VERSION = "3.3.7", c.TRANSITION_DURATION = 600, c.DEFAULTS = {
     interval: false,
     pause: "hover",
-    wrap: !0,
+    wrap: false,
     keyboard: !0
   }, c.prototype.keydown = function(a) {
     if (!/input|textarea/i.test(a.target.tagName)) {
