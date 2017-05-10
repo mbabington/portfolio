@@ -21,3 +21,14 @@ header .intro-text {
     padding-top: 400px;
     padding-bottom: 200px
 }
+
+.btn-primary.active,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover,
+.open
+.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #14495B;
+    border-color: #14495B;
+}
