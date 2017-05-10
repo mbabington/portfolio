@@ -15,7 +15,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     webkit-tap-highlight-color: #000000
 }
 
@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700
 }
@@ -270,7 +270,7 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 header {
-    background-image: url(../img/birdseye_1.png);
+    background-image: url(../img/birdseye_compress.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -328,7 +328,7 @@ header .intro-text .intro-heading {
 
 #portfolio .portfolio-item .portfolio-caption p,
 section h3.section-subheading {
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic
 }
 
@@ -792,7 +792,7 @@ ul.social-buttons li a:hover {
 
 .portfolio-modal .modal-content p.item-intro {
     margin: 20px 0 30px;
-    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic;
     font-size: 16px
 }
