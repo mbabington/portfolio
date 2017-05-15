@@ -43,3 +43,9 @@ h7 {
     background-color: #14495B;
     border-color: #14495B;
 }
+
+/** fixes white space on side for mobile **/
+.row {
+    margin-right: 0px;
+    margin-left:  0px;
+}

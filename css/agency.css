@@ -270,7 +270,7 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 header {
-    background-image: url(../img/birdseye_compress.jpg);
+    background-image: url(../img/birdseye_compress3.png);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -866,27 +866,27 @@ img::-moz-selection {
 }
 
 .fa-users {
-  color: #14495B;
+  color: #343844;
 }
 
 .fa-video-camera {
-  color: #14495B;
+  color: #343844;
 }
 
 .fa-clock-o {
-  color: #14495B;
+  color: #343844;
 }
 
 .fa-university{
-  color: #14495B;
+  color: #343844;
 }
 
 .fa-pencil{
-  color: #14495B;
+  color: #343844;
 }
 
 .fa-sticky-note{
-  color: #14495B;
+  color: #343844;
 }
 
 .fa-users:hover {
