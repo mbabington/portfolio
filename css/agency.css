@@ -15,7 +15,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     webkit-tap-highlight-color: #000000
 }
 
@@ -27,9 +27,9 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700
+    font-weight: 600
 }
 
 .text-muted {
@@ -328,12 +328,12 @@ header .intro-text .intro-heading {
 
 #portfolio .portfolio-item .portfolio-caption p,
 section h3.section-subheading {
-    font-family: "roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-style: italic
 }
 
 section {
-    padding: 100px 0
+    padding: 100px
 }
 
 section h2.section-heading {
