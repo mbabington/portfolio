@@ -198,7 +198,7 @@ h1 {
   font-weight: bold;
 }
 .image-block {
-    border: 0px solid white ;
+    border: 3px solid white ;
     background-color: black;
     padding: 0px;
     margin: 0px;
@@ -225,4 +225,8 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     color: #000000
+}
+
+.bg-black{
+  color:#000000;
 }

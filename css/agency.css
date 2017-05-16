@@ -186,7 +186,7 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 .navbar-custom .navbar-brand {
-    color: #F4F8F9;
+    color: #000000;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, cursive
 }
 
@@ -199,7 +199,7 @@ fieldset[disabled] .btn-xl:hover {
 
 .navbar-custom .nav li a,
 .navbar-custom .navbar-toggle {
-    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #4A4A4A;
     text-transform: uppercase
 }
@@ -339,6 +339,7 @@ section {
 section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
+    font-weight: 400;
     margin-bottom: 15px;
     color: #4A4A4A
 }
