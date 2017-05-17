@@ -230,3 +230,20 @@ section h2.section-heading {
 .bg-black{
   color:#000000;
 }
+
+.portfolio-modal .close-modal .lr .rl{
+    height: 35px;
+}
+
+.portfolio-modal .close-modal .lr {
+    height: 35px;
+}
+
+.portfolio-modal .close-modal {
+    width: 50px;
+    height: 35px;
+}
+
+.portfolio-modal .modal-content {
+    padding: 20px
+}
